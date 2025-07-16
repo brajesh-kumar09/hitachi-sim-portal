@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/brajesh-kumar09/hitachi-sim-portal.git/static/js/main.1fc6a2a7.js",
-    "static/media/logo.svg": "/brajesh-kumar09/hitachi-sim-portal.git/static/media/logo.e639bc2e78b0de0f2795438d01602437.svg",
-    "index.html": "/brajesh-kumar09/hitachi-sim-portal.git/index.html",
-    "main.1fc6a2a7.js.map": "/brajesh-kumar09/hitachi-sim-portal.git/static/js/main.1fc6a2a7.js.map"
+    "main.js": "/hitachi-sim-portal/static/js/main.b9de44ea.js",
+    "static/media/logo.svg": "/hitachi-sim-portal/static/media/logo.e639bc2e78b0de0f2795438d01602437.svg",
+    "index.html": "/hitachi-sim-portal/index.html",
+    "main.b9de44ea.js.map": "/hitachi-sim-portal/static/js/main.b9de44ea.js.map"
   },
   "entrypoints": [
-    "static/js/main.1fc6a2a7.js"
+    "static/js/main.b9de44ea.js"
   ]
 }
